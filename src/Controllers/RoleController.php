@@ -2,8 +2,8 @@
 
 namespace Smarch\Watchtower\Controllers;
 
-use App\Http\Requests;
-use App\Http\Controllers\Controller;
+use ECE\Http\Requests;
+use ECE\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
 use Carbon\Carbon;

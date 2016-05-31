@@ -6,8 +6,8 @@ use Illuminate\Http\Request;
 
 use Shinobi;
 
-use App\Http\Requests;
-use App\Http\Controllers\Controller;
+use ECE\Http\Requests;
+use ECE\Http\Controllers\Controller;
 
 class WatchtowerController extends Controller
 {
